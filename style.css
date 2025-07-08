@@ -79,14 +79,21 @@ body {
 
 /* Headings and text */
 .card h1 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
+  font-size: 2.25rem;
+  margin-bottom: 1.25rem;
 }
 
 .card p {
   color: #ccc;
   font-size: 1.05rem;
   margin-bottom: 2rem;
+}
+
+.card span {
+  color: #ccc;
+  font-size: 1.05rem;
+  display: block;
+  margin-bottom: 0.5rem;
 }
 
 /* Countdown */
